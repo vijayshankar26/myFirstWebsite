@@ -11,7 +11,7 @@ body{
 
 #main-header img{
     width: 100%;
-    height: 100%;
+    height: 414px;
 }
 
 .bg-black{
@@ -23,8 +23,6 @@ body{
     width: 30%;
 }
 
-#main-header .profile-img{
-    height: 414px;
 }
 
 .menu-item:hover{
